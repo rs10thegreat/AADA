@@ -1,0 +1,10 @@
+<html>
+<head> 
+      <title>  Salvar Kameez Catalogue आदा </title>
+</head>
+      <body>
+            <P> Price - Rs. 470
+               <img SRC = "file:///D:/isha/Salvar%20kameez/Salvar%20Kameez%20(1.a).jpg" width = "100" height = "100" align = center>
+            </P>
+      </body>
+ 
